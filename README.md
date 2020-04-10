@@ -1,4 +1,4 @@
-In this project, I just built a stock website where:
+<h1>In this project, I just built a stock website where:</h1>
 <br>
     - Users will be able to register for the website(new users will receive $10,000 in cash).
   <br>
